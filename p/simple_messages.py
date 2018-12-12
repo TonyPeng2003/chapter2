@@ -1,0 +1,2 @@
+message = 'li'
+print (message)

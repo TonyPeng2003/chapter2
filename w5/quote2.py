@@ -1,0 +1,1 @@
+print('Albert Einstein once said, "Truth is what stands before experience."')
